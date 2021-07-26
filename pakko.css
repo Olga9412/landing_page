@@ -1,0 +1,200 @@
+body{
+    margin: 0;
+}
+.header__inner{
+  width: 100%;
+    max-width: 1200px;
+    height: 90px;
+    margin: 0 72px;
+}
+.pakko{
+  
+   margin-left:33px;
+   margin-top: 33px;
+   margin-right: 400px;
+  
+    
+
+}
+.menu{
+    
+    box-sizing: content-box;
+   
+    width: 630px;
+    height: 48px;
+    justify-content: flex-end;
+    display: inline-flex;
+   
+ 
+}
+.menu a{
+    font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+color:#100A30;
+text-decoration: none;
+margin-left: 40px;
+
+}
+.menu .active:hover{
+    cursor: pointer;
+    color:#624DE3;
+
+}
+p{
+     
+    
+}
+button{
+    display: inline-block;
+    justify-content: center;
+    background-color:#624DE3;
+    margin-top: -20px;
+    margin-left: 20px;
+ color: #fff;
+    font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+vertical-align: top;   
+padding: 12px 24px;
+border-radius: 10px;
+
+
+}
+.violet{
+    width: 100%;
+   
+    
+    background-color: #100A30;
+    
+}
+.violet__inner{
+    width: 100%;
+     max-width: 1232px;
+    margin: 0px 104px;
+    height: 1105px;
+}
+.title{
+    display: block;
+    text-align:center ;
+    font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 55px;
+line-height: 64px;
+color:#fff;
+padding-top: 69px;
+padding-bottom: 24px;
+}
+.suptitle{
+    text-align: center;
+    color: #fff;
+    font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+padding-bottom: 48px;
+}
+.button__area
+{   margin-left: 400px;
+    display: block;
+    justify-content: center;
+}
+.left
+{
+   padding:15px 36px;
+    line-height: 24px;
+}
+.right{
+    color:#fff;
+    background-color: transparent;
+    border: 1px solid #fff;
+    padding:15px 36px;
+}
+.accordion{
+    width: 100%;
+    max-width: 1207px;
+}
+.tarif__title{
+    margin-top: 164px;
+    text-align: center;
+    font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 56px;
+color: #100A30;
+
+}
+.tarif__cards{
+    display: block;
+    justify-content: center;
+    margin-left: 133px;
+    margin-bottom: 204px;
+}
+
+.section{
+    margin-left: 100px;
+    display: grid;
+    grid-template-columns: 596px 596px;
+    grid-gap: 40px;
+    margin-bottom: 20px;
+}
+.title3{
+    font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 56px;
+color: #100A30;
+
+}
+
+.pakko1{
+    width: 92px;
+    height: 24px;
+    margin-bottom: 24px;
+}
+.footer{
+    width: 100%;
+    max-width: 1240px;
+    height: 271px;
+    background-color:#F8F8F9;
+    padding-left: 104px;
+    padding-top: 58px;
+    display: grid;
+    grid-template-columns: 220px 220px 220px 220px;
+    grid-gap: 120px;
+}
+.title_col1_footer{
+    font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+color: #4C4764;
+margin-bottom: 12px;
+
+}
+.title_col2_footer{
+    font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 24px;
+color:#100A30;
+
+}
+.string1{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    color: #4C4764;
+}
